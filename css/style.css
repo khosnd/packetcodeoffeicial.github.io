@@ -1,0 +1,183 @@
+
+
+header{
+
+  border-radius: 23px;
+    width: 100%;
+
+}
+
+body {
+  background-color: #F5F5F5;
+
+
+
+}
+.nav-kho{
+
+}
+
+.media{
+  width: 667px;
+  margin-right: 7px;
+  position: relative;
+  top: 33px;
+}
+  /*
+  width: 673px;
+  padding: 22px;
+*/
+}
+.lebel h1{
+  font-weight: bold;
+}
+.color{
+
+}
+.myEdit{
+
+}
+.img{
+  /*
+  border-radius: 30px;
+  padding: 0;
+  width: 1475px;
+
+  padding-top: 211px;
+  */
+}
+h1, h5, a, p{
+  color: #778899;
+  font-family: 'Tajawal', sans-serif;
+
+}
+.card-me{
+left: 4px;
+
+
+}
+.backhello{
+  position: relative;
+  top: 120px;
+}
+.fonts{
+  font-size: 30px;
+
+}
+
+.cards{
+  display: inline-block;
+}
+.container{
+text-align: center;
+color: white;
+}
+.centered{
+  font-size: 60px;
+
+  font-family: 'Tajawal', sans-serif;
+  color: #778899;
+
+
+}
+.hello{
+  filter:drop-shadow(1px 1px 3px #000000);
+}
+.hello h1{
+  color: white;
+ font-weight: bold;
+ font-size: 40pt;
+
+
+}
+.hello p{
+  color: white;
+
+  font-size: 25pt;
+}
+.cont{
+  position: relative;
+  top: 121px;
+  margin-right: -148px;
+}
+
+
+  .bg {
+    background-image: url("adobe.png");
+    background-size: cover;
+    height: 300px;
+    margin-top: 200px;
+    text-align: center;
+    font-weight: bolder;
+      }
+.myEdit{
+    margin-top: 230px;
+      }
+
+.univers{
+  font-family: 'Tajawal';
+  font-weight: bold;
+  color: #778799;
+  font-size: 18px;
+position: relative;
+top: -42px;
+right: -172px;
+      }
+.nav-kh img{
+  width: 50px;
+  margin-right: 119px;
+      }
+    .cont{
+      position: relative;
+      top: 102px;
+    }
+.ترحيبة{
+position: relative;
+top: 205px;
+font-size: 20px;
+
+}
+.forSpacing{
+  margin-top: 79px;
+}
+.tea{
+  text-align: center;
+  width: 22px;
+  position: relative;
+  right: 0px;
+  top: -5px;
+}
+.last{
+  direction: ltr;
+}
+.textfooter{
+  position: relative;
+right: -154px;
+width: 980px;
+top: 120px;
+}
+.kho_label{
+  font-family: inherit;
+}
+.card{
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.btn-num{
+position: relative;
+top: 15px;
+left: 22px;
+}
+.items{
+  position: relative;
+  right: 21px;
+  font-weight: bold;
+}
+.roo{
+padding:0;
+margin: 0;
+margin-right: 45px;
+}
+.inform{
+  font-family: 'Tajawal';
+}
